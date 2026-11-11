@@ -2,6 +2,11 @@
   "schemaVersion": 2,
   "kind": "app",
   "name": "app",
+  "deployment": {
+    "organizationId": "f1392492-b321-42f5-aa91-dd2d99d8ccdd",
+    "workspaceId": "cfb97f88-0fca-4e00-932b-23cf20323323",
+    "appId": "01a1cb0a-dd36-77b0-8dff-d25b071c70ba"
+  },
   "modules": [
     {
       "type": "app",
